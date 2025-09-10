@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://jaybar511.github.io/HTML-papers/sitemap.xml
